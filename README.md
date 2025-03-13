@@ -201,7 +201,7 @@ The training progress can be visualized through:
 
 1. **Loss Curves**: Showing the Generator and Discriminator losses over time
 
-![Generated Images Example](./generated_images/last epoc gans assignemnt 3.png)
+![Generated Images Example](last epoc gans assignemnt 3.png)
 
 2. **Generated Images**: Samples produced by the Generator at different training stages
 
