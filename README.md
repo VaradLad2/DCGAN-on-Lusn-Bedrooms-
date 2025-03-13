@@ -4,7 +4,7 @@
 
 This repository implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** as described in the paper ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"](https://arxiv.org/abs/1511.06434) by Radford et al. (2015). The goal is to train a model to generate realistic 64x64 pixel images using the LSUN Bedrooms dataset.
 
-![Generated Images Example](./generated_images/final_generated_images.png)
+![Generated Images Example](./generated_images/possibleoutput.png)
 
 ## What is a GAN?
 
