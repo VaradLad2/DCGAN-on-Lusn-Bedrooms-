@@ -201,7 +201,7 @@ The training progress can be visualized through:
 
 1. **Loss Curves**: Showing the Generator and Discriminator losses over time
 
-![GAN Training Progress](./generated_images/losses_epoch_40.png)
+![GAN Training Progress](23.png)
 
 2. **Generated Images**: Samples produced by the Generator at different training stages
 
